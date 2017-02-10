@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rexi</string>
+    <string name="no_internet_connection_message">There is no internet connection.</string>
+</resources>
